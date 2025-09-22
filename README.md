@@ -19,6 +19,6 @@
 
 <img src = "img/img109.png" width = 100%>
 
-<img src = "img/img110png" width = 100%>
+<img src = "img/img110.png" width = 100%>
 
 <img src = "img/img111.png" width = 100%>
